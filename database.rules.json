@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "night4": {
+      "current": {
+        ".read": true,
+        ".write": "auth != null && auth.uid === 'taSD5nn7ljXrOOo4v9VNyX8rbqi1'"
+      }
+    }
+  }
+}
