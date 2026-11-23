@@ -1,0 +1,36 @@
+{
+  "event": "Night 4",
+  "date": "2026-11-29",
+  "activeGame": "mlbb",
+  "brackets": {
+    "codm": {
+      "seeds": [
+        "Aurelia",
+        "Solaris",
+        "Florea",
+        "Frostveil"
+      ],
+      "winners": {
+        "p1": null,
+        "p2": null,
+        "third": null,
+        "finals": null
+      }
+    },
+    "mlbb": {
+      "seeds": [
+        "Solaris",
+        "Frostveil",
+        "Aurelia",
+        "Florea"
+      ],
+      "winners": {
+        "p1": null,
+        "p2": null,
+        "third": null,
+        "finals": null
+      }
+    }
+  },
+  "exportedAt": "2026-11-23T13:50:44.465Z"
+}
